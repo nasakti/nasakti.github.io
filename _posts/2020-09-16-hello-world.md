@@ -1,4 +1,5 @@
 ---
 published: true
+post: layout
 ---
 ## 😊
