@@ -19,7 +19,7 @@ Sejak kecil hingga sekarang aku mengalami banyak perluasan minat dan fokus, kare
 
 [**Idea Snacks**](https://ideasnacks.com)  
 (Agus 2020 - Sekarang)  
-dea Snacks is an educational platform and community-based publications (user generated content) on Philosophy, Popular Science, History, Theology, Pop-Culture & Current Affairs; with an unusual approach, we want to serve fresh ideas that are not far from everyday life as fun as eating snacks, always addicting.
+Idea Snacks is an educational platform and community-based publications (user generated content) on Philosophy, Popular Science, History, Theology, Pop-Culture & Current Affairs; with an unusual approach, we want to serve fresh ideas that are not far from everyday life as fun as eating snacks, always addicting.
 
 **SBMPTN Rank**  
 (Des 2019)  
