@@ -7,9 +7,11 @@ published: true
 
 Hai, aku Nasakti. Salam kenal!
 
-### Mau kenal lebih jauh
+### Mau kenal lebih jauh?
 
-A place to include any other types of information that you'd like to include about yourself.
+Aku saat ini adalah mahasiswa Hukum semester tiga di Universitas Pembangunan Nasional "Veteran" Jakarta. Sejak kecil aku memiliki ketertarikan pada desain dan sinematografi, kemudian ketika SMP mulai tertarik pada pemrograman, ketika aku duduk di bangku SMA, minatku meluas ke bidang humaniora, filsafat, khususnya filsafat kontemporer dan hukum. Saat ini fokusku di bidang hukum, khususnya hukum lingkungan.
+
+Aku juga seorang programmer otodidak berpengalaman dalam membangun beberapa aplikasi berbasis web (news, user generated content, dan e-commerce platform).
 
 ### Hubungi saya
 
