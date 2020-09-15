@@ -17,16 +17,20 @@ Sejak kecil hingga sekarang aku mengalami banyak perluasan minat dan fokus, kare
 
 ### Projects
 
-**SBMPTN Rank**
-(Des 2019)
+[**Idea Snacks**](https://ideasnacks.com)  
+(Agus 2020 - Sekarang)  
+dea Snacks is an educational platform and community-based publications (user generated content) on Philosophy, Popular Science, History, Theology, Pop-Culture & Current Affairs; with an unusual approach, we want to serve fresh ideas that are not far from everyday life as fun as eating snacks, always addicting.
+
+**SBMPTN Rank**  
+(Des 2019)  
 SBMPTN Rank is a free UTBK rationalization automation and SBMPTN ranking simulation platform for everyone.
 
-[**sakeem co**](https://instagram.com/sakeemproject)
-(Mar 2019 – Sekarang)
+[**sakeem co**](https://instagram.com/sakeemproject)  
+(Mar 2019 – Sekarang)  
 sakeem is a clothing brand that blend of pop-culture and brutal-inspired style.
 
-**Meroket.id**
-(Jul 2018 - Jul 2019)
+**Meroket.id**  
+(Jul 2018 - Jul 2019)  
 An online media that discusses and curates articles about the latest technological developments in Indonesian to bring Indonesian people closer to technological issues in their own language.
 
 ### Ada yang ingin disampaikan?
