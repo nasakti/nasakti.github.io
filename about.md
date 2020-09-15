@@ -15,8 +15,8 @@ Aku juga seorang programmer otodidak berpengalaman dalam membangun beberapa apli
 
 Sejak kecil hingga sekarang aku mengalami banyak perluasan minat dan fokus, karena aku orang yang haus akan kesempatan, aku menganggapnya sebagai akumulasi titik-titik ide dan keterampilan yang aku rajut sehingga aku memiliki cakrawala yang luas dalam menjalani hidup dan aku memiliki banyak varian pertimbangan dalam memutuskan tindakan yang hendak aku ambil dan varian medium yang bisa aku gunakan untuk mewujudkan visi misi hidupku 🍻.
 
-### Hubungi saya
+### Ada yang ingin disampaikan?
 
-Jangan segan untuk menghubungi saya lewat media sosial atau lewat email di bawah ini:
+Jangan segan untuk menghubungiku lewat media sosial atau lewat email di bawah ini:
 
 [nasaktighazali@gmail.com](mailto:nasaktighazali@gmail.com)
