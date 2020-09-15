@@ -33,6 +33,10 @@ sakeem is a clothing brand that blend of pop-culture and brutal-inspired style.
 (Jul 2018 - Jul 2019)  
 An online media that discusses and curates articles about the latest technological developments in Indonesian to bring Indonesian people closer to technological issues in their own language.
 
+### Other tiny project
+
+[**Rock paper scissors game**](https://nasakti.github.io/rock-paper-scissors-game/)
+
 ### Ada yang ingin disampaikan?
 
 Jangan segan untuk menghubungiku lewat media sosial atau lewat email di bawah ini:
