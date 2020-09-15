@@ -13,6 +13,8 @@ Aku saat ini adalah mahasiswa Hukum semester tiga di Universitas Pembangunan Nas
 
 Aku juga seorang programmer otodidak berpengalaman dalam membangun beberapa aplikasi berbasis web (news, user generated content, dan e-commerce platform).
 
+Sejak kecil hingga sekarang aku mengalami banyak perluasan minat dan fokus, karena aku orang yang haus akan kesempatan, aku menganggapnya sebagai akumulasi titik-titik ide dan keterampilan yang aku rajut sehingga aku memiliki cakrawala yang luas dalam menjalani hidup dan aku memiliki banyak varian pertimbangan dalam memutuskan tindakan yang hendak aku ambil dan varian medium yang bisa saku gunakan untuk mewujudkan visi misi hidupku 🍻.
+
 ### Hubungi saya
 
 Jangan segan untuk menghubungi saya lewat media sosial atau lewat email di bawah ini:
