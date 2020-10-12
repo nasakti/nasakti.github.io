@@ -17,7 +17,13 @@ Sejak kecil hingga sekarang aku mengalami banyak perluasan minat dan fokus, kare
 
 ### Projects
 
-[**Idea Snacks**](https://ideasnacks.com)  
+[**Collegacy**](https://collegacy.id)  
+Social Media & Design/Web Developer  
+(Sep 2020 - Sekarang)  
+Collegacy is a student organization commited to gather and lead the brightest individuals in planning and pursuing the best possible successful path in the future. Collegacy provides comprehensive leadership and mentoring programs, as well as providing internship and scholarship opportunities. Collegacy now has presence in both Jakarta and Bandung.
+
+[**Idea Snacks**](https://ideasnacks.com) 
+Founder/Web Developer  
 (Agus 2020 - Sekarang)  
 Idea Snacks is an educational platform and community-based publications (user generated content) on Philosophy, Popular Science, History, Theology, Pop-Culture & Current Affairs; with an unusual approach, we want to serve fresh ideas that are not far from everyday life as fun as eating snacks, always addicting.
 
@@ -26,6 +32,7 @@ Idea Snacks is an educational platform and community-based publications (user ge
 SBMPTN Rank is a free UTBK rationalization automation and SBMPTN ranking simulation platform for everyone.
 
 [**sakeem co**](https://instagram.com/sakeemproject)  
+Co-Founder/Web Developer  
 (Mar 2019 – Sekarang)  
 sakeem is a clothing brand that blend of pop-culture and brutal-inspired style.
 
