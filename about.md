@@ -22,7 +22,7 @@ Social Media & Design/Web Developer
 (Sep 2020 - Sekarang)  
 Collegacy is a student organization commited to gather and lead the brightest individuals in planning and pursuing the best possible successful path in the future. Collegacy provides comprehensive leadership and mentoring programs, as well as providing internship and scholarship opportunities. Collegacy now has presence in both Jakarta and Bandung.
 
-[**Idea Snacks**](https://ideasnacks.com) 
+[**Idea Snacks**](https://ideasnacks.com)  
 Founder/Web Developer  
 (Agus 2020 - Sekarang)  
 Idea Snacks is an educational platform and community-based publications (user generated content) on Philosophy, Popular Science, History, Theology, Pop-Culture & Current Affairs; with an unusual approach, we want to serve fresh ideas that are not far from everyday life as fun as eating snacks, always addicting.
